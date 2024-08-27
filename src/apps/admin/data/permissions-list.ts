@@ -1,0 +1,27 @@
+import { crud } from "apps/admin/account/utils/permissions";
+
+export const permissionsList = () => [
+  crud("users"),
+  crud("dashboard"),
+  crud("overview"),
+  crud("usersGroups"),
+  crud("properties"),
+  crud("amenities"),
+  crud("features"),
+  crud("propertyFinishing"),
+  crud("posts"),
+  crud("pages"),
+  crud("faq"),
+  crud("currencies"),
+  crud("countries"),
+  crud("cities"),
+  crud("banners"),
+  crud("sliders"),
+  crud("regions"),
+  crud("compounds"),
+  crud("districts"),
+  crud("streets"),
+  crud("testimonials"),
+  crud("keywords"),
+  // crud("inquiries"),
+];

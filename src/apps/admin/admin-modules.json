@@ -1,0 +1,166 @@
+{
+    "path": "/",
+    "name": "admin",
+    "modules": [
+        {
+            "entry": [
+                "/settings"
+            ],
+            "name": "settings"
+        },
+        {
+            "entry": [
+                "/properties"
+            ],
+            "name": "properties"
+        },
+        {
+            "entry": [
+                "/owners"
+            ],
+            "name": "owners"
+        },
+        {
+            "entry": [
+                "/testimonials",
+                "/subscriptions"
+            ],
+            "name": "testimonials"
+        },
+        {
+            "entry": [
+                "/newsletter"
+            ],
+            "name": "newsletter"
+        },
+        {
+            "entry": [
+                "/posts"
+            ],
+            "name": "blog"
+        },
+        {
+            "entry": [
+                "/informative-pages"
+            ],
+            "name": "informative-pages"
+        },
+        {
+            "entry": [
+                "/faq"
+            ],
+            "name": "faq"
+        },
+        {
+            "entry": [
+                "/keywords"
+            ],
+            "name": "keywords"
+        },
+        {
+            "entry": [
+                "/contact-us"
+            ],
+            "name": "contact-us"
+        },
+        {
+            "entry": [
+                "/inquiries"
+            ],
+            "name": "inquiries"
+        },
+        {
+            "entry": [
+                "/agents"
+            ],
+            "name": "agents"
+        },
+        {
+            "entry": [
+                "/agents"
+            ],
+            "name": "agents"
+        },
+        {
+            "entry": [
+                "/developers"
+            ],
+            "name": "developers"
+        },
+        {
+            "entry": [
+                "/login",
+                "/rest-password",
+                "forgot-password"
+            ],
+            "name": "account"
+        },
+        {
+            "entry": [
+                "/localization"
+            ],
+            "name": "localization"
+        },
+        {
+            "entry": [
+                "/",
+                "/404"
+            ],
+            "name": "home"
+        },
+        {
+            "entry": [
+                "/users-groups"
+            ],
+            "name": "users-groups"
+        },
+        {
+            "entry": [
+                "/media"
+            ],
+            "name": "media"
+        },
+        {
+            "entry": [
+                "/overview"
+            ],
+            "name": "overview"
+        },
+        {
+            "entry": [
+                "/projects"
+            ],
+            "name": "projects"
+        },
+        {
+            "entry": [
+                "/platforms"
+            ],
+            "name": "platforms"
+        },
+        {
+            "entry": [
+                "/errors"
+            ],
+            "name": "errors"
+        },
+        {
+            "entry": [
+                "/users"
+            ],
+            "name": "users"
+        },
+        {
+            "entry": [
+                "/organizations"
+            ],
+            "name": "organizations"
+        },
+        {
+            "entry": [
+                "/reasons"
+            ],
+            "name": "reasons"
+        }
+    ]
+}

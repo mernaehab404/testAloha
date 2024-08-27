@@ -1,0 +1,22 @@
+.navbar {
+  background-color: light-dark(
+    var(--mantine-color-white),
+    var(--mantine-color-dark-6)
+  );
+  height: 100%;
+  width: 100%;
+  padding: var(--mantine-spacing-md) !important;
+  padding-bottom: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.links {
+  flex: 1;
+  margin: calc(var(--mantine-spacing-md) * -1) !important;
+}
+
+.linksInner {
+  padding-top: var(--mantine-spacing-md) !important;
+  padding-bottom: var(--mantine-spacing-md) !important;
+}
